@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
                         This pod helps for math operation
                        DESC
 
-  s.homepage         = 'https://github.com/Gayathri2431/MathOperation'
+  s.homepage         = 'https://github.com/Gayathri2431/PodCreation'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Gayathri2431' => 'gayathri.shenbagaraman@cognitivemachines.co.in' }
